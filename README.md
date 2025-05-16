@@ -26,7 +26,7 @@ Update the `.env` file with your domain and email:
 DOMAIN_NAME=yourdomain.com
 SUBDOMAIN=n8n
 SSL_EMAIL=your@email.com
-GENERIC_TIMEZONE=Europe/Berlin
+GENERIC_TIMEZONE=America/Sao_Paulo
 ```
 
 This will make n8n accessible at `https://n8n.yourdomain.com`.
